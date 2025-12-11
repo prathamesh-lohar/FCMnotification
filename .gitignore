@@ -1,3 +1,5 @@
 /node_modules
 /.env
-.DS_Storeatom-50550-firebase-adminsdk-fbsvc-88a3d878ad.json
+.DS_Store
+atom-50550-firebase-adminsdk-fbsvc-88a3d878ad.json
+google-services.json
