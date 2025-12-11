@@ -8,15 +8,15 @@ Campaign-based notification system for monitoring smart lock battery status with
 
 **Notification Received**
 
-<img src="ScreenShots/Notiificaion.png" width="300" alt="Notification">
+<img src="screenshot/Notiificaion.png" width="300" alt="Notification">
 
 **Notification Opened**
 
-<img src="ScreenShots/opened notification.png" width="300" alt="Opened Notification">
+<img src="screenshot/opened notification.png" width="300" alt="Opened Notification">
 
 ### Campaign Analytics Tracking
 
-![Campaign Tracking](ScreenShots/campain_tracking.png)
+![Campaign Tracking](screenshot/campain_tracking.png)
 
 *Real-time campaign analytics with click tracking*
 
